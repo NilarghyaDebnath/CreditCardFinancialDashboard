@@ -5,4 +5,4 @@
 
 •	Implemented advanced DAX calculations to derive meaningful insights and key performance indicators (KPIs) from the credit card data, enhancing decision-making capabilities.
 
-•	Designed and crafted three distinct intuitive and user-friendly dashboards: Credit Card Financial Dashboard-Customer, Credit Card Financial Dashboard-Transaction and Credit Card Financial Weekly Dashboard Report.
+•	Designed and crafted three distinct intuitive and user-friendly dashboards: Credit Card Financial Dashboard-Customer and Credit Card Financial Dashboard-Transaction,
